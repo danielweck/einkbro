@@ -9,8 +9,8 @@
         android:shortcutDisabledMessage="@string/bookmarks">
         <intent
             android:action="sc_bookmark"
-            android:targetPackage="info.plateaukao.einkbro"
-            android:targetClass="info.plateaukao.einkbro.activity.BrowserActivity" />
+            android:targetPackage="info.plateaukao.einkbro_"
+            android:targetClass="info.plateaukao.einkbro_.activity.BrowserActivity" />
         <categories android:name="android.shortcut.conversation" />
     </shortcut>
 
@@ -23,8 +23,8 @@
         android:shortcutDisabledMessage="@string/album_title_history">
         <intent
             android:action="sc_history"
-            android:targetPackage="info.plateaukao.einkbro"
-            android:targetClass="info.plateaukao.einkbro.activity.BrowserActivity" />
+            android:targetPackage="info.plateaukao.einkbro_"
+            android:targetClass="info.plateaukao.einkbro_.activity.BrowserActivity" />
         <categories android:name="android.shortcut.conversation" />
     </shortcut>
 
@@ -36,8 +36,8 @@
         android:shortcutDisabledMessage="@string/album_title_home">
         <intent
             android:action="sc_home"
-            android:targetPackage="info.plateaukao.einkbro"
-            android:targetClass="info.plateaukao.einkbro.activity.BrowserActivity" />
+            android:targetPackage="info.plateaukao.einkbro_"
+            android:targetClass="info.plateaukao.einkbro_.activity.BrowserActivity" />
         <categories android:name="android.shortcut.conversation" />
     </shortcut>
     <shortcut
@@ -48,8 +48,8 @@
         android:shortcutDisabledMessage="@string/sc_disable_adblock_disabled">
         <intent
             android:action="sc_disable_adblock"
-            android:targetPackage="info.plateaukao.einkbro"
-            android:targetClass="info.plateaukao.einkbro.activity.BrowserActivity" />
+            android:targetPackage="info.plateaukao.einkbro_"
+            android:targetClass="info.plateaukao.einkbro_.activity.BrowserActivity" />
         <categories android:name="android.shortcut.conversation" />
     </shortcut>
 </shortcuts>

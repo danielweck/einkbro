@@ -14,7 +14,7 @@ Please write necessary information as described below. If information is not eno
 
  - Device: 
  - OS: 
- - EinkBro Version [e.g. 9.7.0.   You can find the version number in Settings.]
+ - EinkBro_ Version [e.g. 9.7.0.   You can find the version number in Settings.]
 
 **Describe the bug**
 

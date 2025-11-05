@@ -2,7 +2,7 @@
 
 <resources>
     <!-- App -->
-    <string name="app_name">EinkBro</string>
+    <string name="app_name">EinkBro_</string>
     <string name="list_empty">Текущий список пуст. </string>
     <string name="bookmarks">Закладки</string>
     <string name="album_title_history">История</string>
@@ -34,7 +34,7 @@
     <string name="menu_shareClipboard">Копировать в буфер</string>
 
     <string name="menu_other_searchSite">Найти на странице</string>
-    <string name="menu_other_info">О программе EinkBro</string>
+    <string name="menu_other_info">О программе EinkBro_</string>
 
     <!-- Dialog -->
     <string name="dialog_title_hint">Заголовок:</string>
@@ -115,10 +115,10 @@
 
 
     <!-- Browser clear -->
-    <string name="data_summary">Все файлы будут экспортированы в каталог \"Android/data/info.plateaukao.einkbro/files/browser_backup/\".
+    <string name="data_summary">Все файлы будут экспортированы в каталог \"Android/data/info.plateaukao.einkbro_/files/browser_backup/\".
         Этот каталог будет УДАЛЕН, если Вы удалите EinkBro, поэтому регулярно делайте резервные копии</string>
     <string name="clear_title_quit">Очищать данные при выходе из приложения</string>
-    <string name="clear_summary_quit">Каждый раз при выходе из EinkBro все вышеперечисленные выбранные данные будут удаляться</string>
+    <string name="clear_summary_quit">Каждый раз при выходе из EinkBro_ все вышеперечисленные выбранные данные будут удаляться</string>
     <string name="clear_title_cache">Очистить кэш</string>
     <string name="clear_title_cookie">Очистить куки</string>
     <string name="clear_title_history">Очистить историю</string>

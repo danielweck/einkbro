@@ -19,7 +19,7 @@ CGSLURP LLC
 https://crowdin.com/profile/gaich
 
 Dmitry Gaich
-* Helped to implement AdBlock and "request desktop site" in the previous version of "EinkBro Browser".
+* Helped to implement AdBlock and "request desktop site" in the previous version of "EinkBro_ Browser".
 https://github.com/futrDevelopment
 
 element54
@@ -48,7 +48,7 @@ gr1sh
 https://github.com/gr1sh
 
 Harry Heights
-* Documentation of EinkBro Browser
+* Documentation of EinkBro_ Browser
 https://github.com/HarryHeights
 
 Heimen Stoffels
@@ -64,7 +64,7 @@ Herman Nunez
 https://github.com/junior012
 
 Jumping Yang
-* Chinese translation in the previous version of "EinkBro Browser"
+* Chinese translation in the previous version of "EinkBro_ Browser"
 https://github.com/JumpingYang001
 
 lishoujun
@@ -97,7 +97,7 @@ Sérgio Marques
 https://github.com/smarquespt
 
 splinet
-* Russian translation in the previous version of "EinkBro Browser"
+* Russian translation in the previous version of "EinkBro_ Browser"
 https://github.com/splinet
 
 SkewedZeppelin

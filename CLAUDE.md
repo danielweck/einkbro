@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-EinkBro is an Android web browser specifically designed for E-ink devices like e-readers. It's built with Kotlin and uses modern Android development practices including Jetpack Compose, Room database, and MVVM architecture with Koin dependency injection.
+EinkBro_ is an Android web browser specifically designed for E-ink devices like e-readers. It's built with Kotlin and uses modern Android development practices including Jetpack Compose, Room database, and MVVM architecture with Koin dependency injection.
 
 ## Build Commands
 
@@ -61,7 +61,7 @@ EinkBro is an Android web browser specifically designed for E-ink devices like e
 - **Room Database**: Local data persistence with KSP annotation processing
 
 ### Key Components
-- **EinkBroApplication.kt**: Application class with Koin DI setup
+- **EinkBro_Application.kt**: Application class with Koin DI setup
 - **BrowserActivity.kt**: Main activity (singleInstance launch mode)
 - **EBWebView.kt**: Custom WebView with E-ink optimizations
 - **ChatGPT Integration**: AI-powered web content interaction via OpenAI API

@@ -215,7 +215,7 @@ It'll be easier to add new features in the future; however, the size increase su
 
 ### 8.36.0
 #### Enhancement
-* Support Sharing link between two EinkBro App in different devices
+* Support Sharing link between two EinkBro_ App in different devices
 
 #### Issue fix
 * Crash when loading a long web page
@@ -223,7 +223,7 @@ It'll be easier to add new features in the future; however, the size increase su
 ### Feature
 * **Receive data** and **Send link**
 !(https://user-images.githubusercontent.com/4084738/169814052-6de1f7c4-7c86-4ce9-8eec-9f4449e1b9f9.png)
-Receive data can receive data from another EinkBro or Sharik APP on another device that is also refactored by me https://github.com/plateaukao/sharik
+Receive data can receive data from another EinkBro_ or Sharik APP on another device that is also refactored by me https://github.com/plateaukao/sharik
 
 ### 8.35.0
 #### Enhancement
@@ -328,7 +328,7 @@ Fixed bluetooth up/down key page navigation fail issue
 ### 8.27.0
 #### enhancement
 * improve save epub process: now you can select previously saved epub file easily.
-* remove unused resources: now EinkBro is even smaller!
+* remove unused resources: now EinkBro_ is even smaller!
 * add open epub button in menu: possible to open previously saved epub
 * two finger swipe gesture is supported now! Find it in Setting -> Gestures
 
@@ -447,7 +447,7 @@ Fixed bluetooth up/down key page navigation fail issue
 
 ### 8.8.0
 
-- support dark mode (if you want to use EinkBro in normal phones/tablets)
+- support dark mode (if you want to use EinkBro_ in normal phones/tablets)
 - add incognito mode in quick toggle dialog (long press 3 dot icon)
 - add rotate screen action in tool bar configuration dialog
 
@@ -553,7 +553,7 @@ Fixed bluetooth up/down key page navigation fail issue
 - Now toolbar actions can be customized. Go to Settings -> Behavior/UI -> Icons on toolbar and configure.
 - Add touch area hint when turning on page-turn feature by touching on screen. You can also long click on the button to keep area hint always on.
 - Add labels to quick toggle settings for easier knowing what these icons are for
-- Now it's possible to keep playing audio when EinkBro is in the background. (the media should be played in current tab). This can be turned on in quick toggle settings (long click on three dot button on tool bar)
+- Now it's possible to keep playing audio when EinkBro_ is in the background. (the media should be played in current tab). This can be turned on in quick toggle settings (long click on three dot button on tool bar)
 - Long press on left touch area will scroll the webpage to top. (only work when touch feature turned on)
 
 ### 8.1
@@ -567,7 +567,7 @@ Fixed bluetooth up/down key page navigation fail issue
 - Remove button press visual feedback
 - Re-layout menu items for easier access in different resolution devices
 - Support Android SDK level 19
-- Change package id from original one to info.plateaukao.einkbro
+- Change package id from original one to info.plateaukao.einkbro_
 - Support Vi key bindings when using physical keyboard
 b : open bookmarks
 d : remove current tab

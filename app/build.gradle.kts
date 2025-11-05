@@ -32,7 +32,7 @@ android {
     buildToolsVersion = "34.0.0"
 
     defaultConfig {
-        applicationId = "info.plateaukao.einkbro"
+        applicationId = "info.plateaukao.einkbro_"
         minSdk = 24
         targetSdk = 34
         versionCode = 15_03_00
@@ -98,7 +98,7 @@ android {
             isUniversalApk = true
         }
     }
-    namespace = "info.plateaukao.einkbro"
+    namespace = "info.plateaukao.einkbro_"
 }
 
 dependencies {

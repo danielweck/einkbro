@@ -7,7 +7,7 @@
         errorLine1="import android.R"
         errorLine2="~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/dialog/BookmarkEditDialog.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/dialog/BookmarkEditDialog.kt"
             line="3"
             column="1"/>
     </issue>
@@ -51,7 +51,7 @@
         errorLine1="        val intent = Intent(Intent.ACTION_PROCESS_TEXT).apply {"
         errorLine2="                            ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/viewmodel/ActionModeMenuViewModel.kt"
+            file="src/main/java/info/plateaukao/einkbro_/viewmodel/ActionModeMenuViewModel.kt"
             line="144"
             column="29"/>
     </issue>
@@ -62,7 +62,7 @@
         errorLine1="                        putExtra(Intent.EXTRA_PROCESS_TEXT, text)"
         errorLine2="                                 ~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/dialog/compose/ActionModeView.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/dialog/compose/ActionModeView.kt"
             line="59"
             column="34"/>
     </issue>
@@ -73,7 +73,7 @@
         errorLine1="                        putExtra(Intent.EXTRA_PROCESS_TEXT_READONLY, true)"
         errorLine2="                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/dialog/compose/ActionModeView.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/dialog/compose/ActionModeView.kt"
             line="60"
             column="34"/>
     </issue>
@@ -84,7 +84,7 @@
         errorLine1="                    val text = intent.getStringExtra(Intent.EXTRA_PROCESS_TEXT) ?: return"
         errorLine2="                                                     ~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/activity/DictActivity.kt"
+            file="src/main/java/info/plateaukao/einkbro_/activity/DictActivity.kt"
             line="46"
             column="54"/>
     </issue>
@@ -95,7 +95,7 @@
         errorLine1="            action = Intent.ACTION_PROCESS_TEXT"
         errorLine2="                     ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/activity/DictActivity.kt"
+            file="src/main/java/info/plateaukao/einkbro_/activity/DictActivity.kt"
             line="89"
             column="22"/>
     </issue>
@@ -106,7 +106,7 @@
         errorLine1="            putExtra(Intent.EXTRA_PROCESS_TEXT, intent.getStringExtra(Intent.EXTRA_PROCESS_TEXT))"
         errorLine2="                     ~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/activity/DictActivity.kt"
+            file="src/main/java/info/plateaukao/einkbro_/activity/DictActivity.kt"
             line="90"
             column="22"/>
     </issue>
@@ -117,7 +117,7 @@
         errorLine1="            putExtra(Intent.EXTRA_PROCESS_TEXT, intent.getStringExtra(Intent.EXTRA_PROCESS_TEXT))"
         errorLine2="                                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/activity/DictActivity.kt"
+            file="src/main/java/info/plateaukao/einkbro_/activity/DictActivity.kt"
             line="90"
             column="71"/>
     </issue>
@@ -128,7 +128,7 @@
         errorLine1="            putExtra(Intent.EXTRA_PROCESS_TEXT, text"
         errorLine2="                     ~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/unit/IntentUnit.kt"
+            file="src/main/java/info/plateaukao/einkbro_/unit/IntentUnit.kt"
             line="52"
             column="22"/>
     </issue>
@@ -139,7 +139,7 @@
         errorLine1="    val intent = Intent(Intent.ACTION_PROCESS_TEXT).apply {"
         errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/data/MenuInfo.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/data/MenuInfo.kt"
             line="19"
             column="25"/>
     </issue>
@@ -157,7 +157,7 @@
         errorLine1="            configManager.gptActionList.forEach { actionInfo ->"
         errorLine2="                                        ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/viewmodel/ActionModeMenuViewModel.kt"
+            file="src/main/java/info/plateaukao/einkbro_/viewmodel/ActionModeMenuViewModel.kt"
             line="180"
             column="41"/>
     </issue>
@@ -168,7 +168,7 @@
         errorLine1="            configManager.splitSearchItemInfoList.forEach { itemInfo ->"
         errorLine2="                                                  ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/viewmodel/ActionModeMenuViewModel.kt"
+            file="src/main/java/info/plateaukao/einkbro_/viewmodel/ActionModeMenuViewModel.kt"
             line="207"
             column="51"/>
     </issue>
@@ -179,7 +179,7 @@
         errorLine1="        bookmarks.forEach { insert(it) }"
         errorLine2="                  ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/database/BookmarkDao.kt"
+            file="src/main/java/info/plateaukao/einkbro_/database/BookmarkDao.kt"
             line="82"
             column="19"/>
     </issue>
@@ -190,7 +190,7 @@
         errorLine1="    fun pauseAll() = list.forEach { it.pauseWebView() }"
         errorLine2="                          ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/browser/BrowserContainer.kt"
+            file="src/main/java/info/plateaukao/einkbro_/browser/BrowserContainer.kt"
             line="34"
             column="27"/>
     </issue>
@@ -201,7 +201,7 @@
         errorLine1="    fun resumeAll() = list.forEach { it.resumeWebView() }"
         errorLine2="                           ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/browser/BrowserContainer.kt"
+            file="src/main/java/info/plateaukao/einkbro_/browser/BrowserContainer.kt"
             line="36"
             column="28"/>
     </issue>
@@ -212,7 +212,7 @@
         errorLine1="        neatUrlConfigs.forEach { paramConfig ->"
         errorLine2="                       ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/unit/BrowserUnit.kt"
+            file="src/main/java/info/plateaukao/einkbro_/unit/BrowserUnit.kt"
             line="604"
             column="24"/>
     </issue>
@@ -223,7 +223,7 @@
         errorLine1="        map.entries.forEach { entry ->"
         errorLine2="                    ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/epub/EpubManager.kt"
+            file="src/main/java/info/plateaukao/einkbro_/epub/EpubManager.kt"
             line="241"
             column="21"/>
     </issue>
@@ -234,7 +234,7 @@
         errorLine1="            bookmarkManager.getAllBookmarksOnly().forEach { list.add(it.toRecord()) }"
         errorLine2="                                                  ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/database/RecordDb.kt"
+            file="src/main/java/info/plateaukao/einkbro_/database/RecordDb.kt"
             line="136"
             column="51"/>
     </issue>
@@ -245,7 +245,7 @@
         errorLine1="        settings.forEach { setting ->"
         errorLine2="                 ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/setting/SettingComposeUi.kt"
+            file="src/main/java/info/plateaukao/einkbro_/setting/SettingComposeUi.kt"
             line="248"
             column="18"/>
     </issue>
@@ -256,7 +256,7 @@
         errorLine1="        toolbarActionInfos.forEach { toolbarActionInfo ->"
         errorLine2="                           ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/compose/Toolbar.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/compose/Toolbar.kt"
             line="144"
             column="28"/>
     </issue>
@@ -267,7 +267,7 @@
         errorLine1="        Jsoup.parse(html).getElementsByTag(&quot;script&quot;).forEach { element ->"
         errorLine2="                                                     ~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/service/TranslateRepository.kt"
+            file="src/main/java/info/plateaukao/einkbro_/service/TranslateRepository.kt"
             line="149"
             column="54"/>
     </issue>
@@ -319,10 +319,10 @@
     <issue
         id="SdCardPath"
         message="Do not hardcode &quot;`/data/`&quot;; use `Context.getFilesDir().getPath()` instead"
-        errorLine1="        private const val DATABASE_PATH = &quot;/data/data/info.plateaukao.einkbro/databases/&quot;"
+        errorLine1="        private const val DATABASE_PATH = &quot;/data/data/info.plateaukao.einkbro_/databases/&quot;"
         errorLine2="                                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/unit/BackupUnit.kt"
+            file="src/main/java/info/plateaukao/einkbro_/unit/BackupUnit.kt"
             line="332"
             column="44"/>
     </issue>
@@ -330,10 +330,10 @@
     <issue
         id="SdCardPath"
         message="Do not hardcode &quot;`/data/`&quot;; use `Context.getFilesDir().getPath()` instead"
-        errorLine1="        private const val SHARED_PREFS_PATH = &quot;/data/data/info.plateaukao.einkbro/shared_prefs/&quot;"
+        errorLine1="        private const val SHARED_PREFS_PATH = &quot;/data/data/info.plateaukao.einkbro_/shared_prefs/&quot;"
         errorLine2="                                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/unit/BackupUnit.kt"
+            file="src/main/java/info/plateaukao/einkbro_/unit/BackupUnit.kt"
             line="333"
             column="48"/>
     </issue>
@@ -344,7 +344,7 @@
         errorLine1="                    Snackbar.make(binding.root, &quot;Added&quot;, Snackbar.LENGTH_LONG).apply {"
         errorLine2="                    ~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/activity/BrowserActivity.kt"
+            file="src/main/java/info/plateaukao/einkbro_/activity/BrowserActivity.kt"
             line="493"
             column="21"/>
     </issue>
@@ -608,7 +608,7 @@
         errorLine1="private fun previewItem() {"
         errorLine2="            ~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/compose/BrowseHistoryList.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/compose/BrowseHistoryList.kt"
             line="125"
             column="13"/>
     </issue>
@@ -619,7 +619,7 @@
         errorLine1="private fun previewHistoryList() {"
         errorLine2="            ~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/compose/BrowseHistoryList.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/compose/BrowseHistoryList.kt"
             line="137"
             column="13"/>
     </issue>
@@ -630,7 +630,7 @@
         errorLine1="private fun scrollToFocusedItem("
         errorLine2="            ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/compose/HistoryAndTabs.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/compose/HistoryAndTabs.kt"
             line="297"
             column="13"/>
     </issue>
@@ -641,7 +641,7 @@
         errorLine1="private fun previewToolBar() {"
         errorLine2="            ~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/dialog/compose/ToolbarConfigDialogFragment.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/dialog/compose/ToolbarConfigDialogFragment.kt"
             line="212"
             column="13"/>
     </issue>
@@ -652,7 +652,7 @@
         errorLine1="    dragModifier: Modifier,"
         errorLine2="    ~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/dialog/compose/ToolbarConfigDialogFragment.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/dialog/compose/ToolbarConfigDialogFragment.kt"
             line="149"
             column="5"/>
     </issue>
@@ -663,7 +663,7 @@
         errorLine1="            resources.getIdentifier(&quot;config_navBarInteractionMode&quot;, &quot;integer&quot;, &quot;android&quot;)"
         errorLine2="                      ~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/unit/ViewUnit.kt"
+            file="src/main/java/info/plateaukao/einkbro_/unit/ViewUnit.kt"
             line="122"
             column="23"/>
     </issue>
@@ -795,7 +795,7 @@
         errorLine1="        webSettings.javaScriptEnabled = true"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/browser/NinjaWebChromeClient.kt"
+            file="src/main/java/info/plateaukao/einkbro_/browser/NinjaWebChromeClient.kt"
             line="84"
             column="9"/>
     </issue>
@@ -817,7 +817,7 @@
         errorLine1="                okAction = { handler.proceed() },"
         errorLine2="                             ~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/browser/ebWebViewClient.kt"
+            file="src/main/java/info/plateaukao/einkbro_/browser/ebWebViewClient.kt"
             line="377"
             column="30"/>
     </issue>
@@ -828,7 +828,7 @@
         errorLine1="            handler.proceed()"
         errorLine2="            ~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/browser/ebWebViewClient.kt"
+            file="src/main/java/info/plateaukao/einkbro_/browser/ebWebViewClient.kt"
             line="381"
             column="13"/>
     </issue>
@@ -850,7 +850,7 @@
         errorLine1="    private var actionModeView: View? = null"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/viewmodel/ActionModeMenuViewModel.kt"
+            file="src/main/java/info/plateaukao/einkbro_/viewmodel/ActionModeMenuViewModel.kt"
             line="56"
             column="5"/>
     </issue>
@@ -1232,7 +1232,7 @@
     <issue
         id="UnusedResources"
         message="The resource `R.string.data_summary` appears to be unused"
-        errorLine1="    &lt;string name=&quot;data_summary&quot;>All files will be exported to the \&quot;Android/data/info.plateaukao.einkbro/files/browser_backup/\&quot;"
+        errorLine1="    &lt;string name=&quot;data_summary&quot;>All files will be exported to the \&quot;Android/data/info.plateaukao.einkbro_/files/browser_backup/\&quot;"
         errorLine2="            ~~~~~~~~~~~~~~~~~~~">
         <location
             file="src/main/res/values/strings.xml"
@@ -2138,7 +2138,7 @@
         errorLine1="class EpubReaderView("
         errorLine2="      ~~~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/epub/EpubReaderView.kt"
+            file="src/main/java/info/plateaukao/einkbro_/epub/EpubReaderView.kt"
             line="35"
             column="7"/>
     </issue>
@@ -2149,7 +2149,7 @@
         errorLine1="open class ebWebView("
         errorLine2="           ~~~~~~~~~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/ebWebView.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/ebWebView.kt"
             line="58"
             column="12"/>
     </issue>
@@ -2369,7 +2369,7 @@
         errorLine1="        window.setGravity(Gravity.TOP or Gravity.LEFT)"
         errorLine2="                                                 ~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/dialog/compose/ContextMenuDialogFragment.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/dialog/compose/ContextMenuDialogFragment.kt"
             line="76"
             column="50"/>
     </issue>
@@ -2380,7 +2380,7 @@
         errorLine1="        window.setGravity(Gravity.TOP or Gravity.LEFT)"
         errorLine2="                                                 ~~~~">
         <location
-            file="src/main/java/info/plateaukao/einkbro/view/dialog/compose/DraggableComposeDialogFragment.kt"
+            file="src/main/java/info/plateaukao/einkbro_/view/dialog/compose/DraggableComposeDialogFragment.kt"
             line="20"
             column="50"/>
     </issue>
